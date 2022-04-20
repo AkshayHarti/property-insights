@@ -1,0 +1,26 @@
+{
+    "properties": [
+      {
+        "id": "1",
+        "value": 590000,
+        "beds": 3,
+        "baths": 2,
+        "carPark": 2,
+        "yearBuilt": "2010",
+        "agent": "1",
+        "areaCode": 3000
+      }
+    ],
+    "agents": [
+      {
+        "id": "1",
+        "name": "Hero",
+        "role": "Director",
+        "agency": "Hero estate agency",
+        "propertiesSold": 10,
+        "propertiesListed": 22,
+        "valueOfPropertiesSold": 21000000
+      }
+    ]
+  }
+  

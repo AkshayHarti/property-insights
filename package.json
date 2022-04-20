@@ -1,0 +1,26 @@
+{
+    "name": "code-test-junior",
+    "version": "1.0.0",
+    "description": "",
+    "source": "src/index.js",
+    "main": "dist/main.js",
+    "type": "module",
+    "scripts": {
+        "prerestart": "swc src/index.js -o dist/output.js",
+        "prestart": "swc src/index.js -o dist/output.js",
+        "start": "node dist/output.js",
+        "server": "json-server -p 5000 db.json",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@swc/cli": "^0.1.57",
+        "@swc/core": "^1.2.168",
+        "got": "^12.0.3",
+        "json-server": "^0.17.0",
+        "nodemon": "^2.0.15",
+        "regenerator-runtime": "^0.13.9"
+    }
+}
