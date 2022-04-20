@@ -1,1306 +1,1606 @@
 {
-    "properties": [
-        {
-            "id": 1,
-            "price": 665310,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "03 Apr, 2016",
-            "soldDate": "15 Apr, 2016",
-            "yearBuilt": 2008,
-            "agent": 38,
-            "areaCode": 3002
-        },
-        {
-            "id": 2,
-            "price": 679791,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "06 Jul, 2016",
-            "soldDate": "03 Sep, 2016",
-            "yearBuilt": 2008,
-            "agent": 23,
-            "areaCode": 3007
-        },
-        {
-            "id": 3,
-            "price": 548749,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "07 Jan, 2021",
-            "soldDate": "23 Jan, 2021",
-            "yearBuilt": 2012,
-            "agent": 98,
-            "areaCode": 3007
-        },
-        {
-            "id": 4,
-            "price": 409992,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "26 Jul, 2017",
-            "soldDate": "10 Aug, 2017",
-            "yearBuilt": 2009,
-            "agent": 39,
-            "areaCode": 3000
-        },
-        {
-            "id": 5,
-            "price": 697789,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "01 Jan, 2015",
-            "soldDate": "24 Feb, 2015",
-            "yearBuilt": 2008,
-            "agent": 73,
-            "areaCode": 3009
-        },
-        {
-            "id": 6,
-            "price": 522937,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "23 Oct, 2015",
-            "soldDate": "23 Nov, 2015",
-            "yearBuilt": 2004,
-            "agent": 64,
-            "areaCode": 3008
-        },
-        {
-            "id": 7,
-            "price": 639595,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "23 Jun, 2017",
-            "soldDate": "27 Jul, 2017",
-            "yearBuilt": 2010,
-            "agent": 20,
-            "areaCode": 3006
-        },
-        {
-            "id": 8,
-            "price": 685177,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "29 Oct, 2017",
-            "soldDate": "01 Dec, 2017",
-            "yearBuilt": 2012,
-            "agent": 85,
-            "areaCode": 3000
-        },
-        {
-            "id": 9,
-            "price": 594798,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "24 Feb, 2016",
-            "soldDate": "01 Apr, 2016",
-            "yearBuilt": 2009,
-            "agent": 13,
-            "areaCode": 3005
-        },
-        {
-            "id": 10,
-            "price": 656827,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "18 Sep, 2021",
-            "soldDate": "15 Oct, 2021",
-            "yearBuilt": 2001,
-            "agent": 84,
-            "areaCode": 3009
-        },
-        {
-            "id": 11,
-            "price": 560106,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "13 Jan, 2021",
-            "soldDate": "01 Feb, 2021",
-            "yearBuilt": 2000,
-            "agent": 2,
-            "areaCode": 3005
-        },
-        {
-            "id": 12,
-            "price": 449751,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "17 Jul, 2016",
-            "soldDate": "26 Aug, 2016",
-            "yearBuilt": 2015,
-            "agent": 31,
-            "areaCode": 3006
-        },
-        {
-            "id": 13,
-            "price": 566268,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "24 Aug, 2021",
-            "soldDate": "17 Oct, 2021",
-            "yearBuilt": 2002,
-            "agent": 17,
-            "areaCode": 3001
-        },
-        {
-            "id": 14,
-            "price": 462416,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "14 Apr, 2018",
-            "soldDate": "24 May, 2018",
-            "yearBuilt": 2008,
-            "agent": 82,
-            "areaCode": 3000
-        },
-        {
-            "id": 15,
-            "price": 577985,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "04 May, 2021",
-            "soldDate": "06 May, 2021",
-            "yearBuilt": 2013,
-            "agent": 91,
-            "areaCode": 3004
-        },
-        {
-            "id": 16,
-            "price": 595300,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "13 May, 2015",
-            "soldDate": "13 May, 2015",
-            "yearBuilt": 2002,
-            "agent": 3,
-            "areaCode": 3010
-        },
-        {
-            "id": 17,
-            "price": 522038,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "26 Jan, 2021",
-            "soldDate": "14 Feb, 2021",
-            "yearBuilt": 2005,
-            "agent": 40,
-            "areaCode": 3007
-        },
-        {
-            "id": 18,
-            "price": 489269,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "13 Aug, 2015",
-            "soldDate": "17 Aug, 2015",
-            "yearBuilt": 2001,
-            "agent": 8,
-            "areaCode": 3003
-        },
-        {
-            "id": 19,
-            "price": 688018,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "11 May, 2016",
-            "soldDate": "11 May, 2016",
-            "yearBuilt": 2006,
-            "agent": 75,
-            "areaCode": 3004
-        },
-        {
-            "id": 20,
-            "price": 433272,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "09 Jul, 2021",
-            "soldDate": "20 Jul, 2021",
-            "yearBuilt": 2004,
-            "agent": 83,
-            "areaCode": 3001
-        },
-        {
-            "id": 21,
-            "price": 570991,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "15 Mar, 2021",
-            "soldDate": "05 May, 2021",
-            "yearBuilt": 2011,
-            "agent": 47,
-            "areaCode": 3006
-        },
-        {
-            "id": 22,
-            "price": 455903,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "28 Sep, 2016",
-            "soldDate": "25 Oct, 2016",
-            "yearBuilt": 2013,
-            "agent": 10,
-            "areaCode": 3008
-        },
-        {
-            "id": 23,
-            "price": 529786,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "27 Jul, 2021",
-            "soldDate": "03 Sep, 2021",
-            "yearBuilt": 2001,
-            "agent": 86,
-            "areaCode": 3008
-        },
-        {
-            "id": 24,
-            "price": 598885,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "10 Sep, 2021",
-            "soldDate": "11 Sep, 2021",
-            "yearBuilt": 2005,
-            "agent": 70,
-            "areaCode": 3000
-        },
-        {
-            "id": 25,
-            "price": 585385,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "20 Aug, 2019",
-            "soldDate": "01 Sep, 2019",
-            "yearBuilt": 2000,
-            "agent": 32,
-            "areaCode": 3008
-        },
-        {
-            "id": 26,
-            "price": 535011,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "23 Feb, 2015",
-            "soldDate": "03 Apr, 2015",
-            "yearBuilt": 2011,
-            "agent": 69,
-            "areaCode": 3007
-        },
-        {
-            "id": 27,
-            "price": 666548,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "05 Oct, 2016",
-            "soldDate": "23 Oct, 2016",
-            "yearBuilt": 2002,
-            "agent": 80,
-            "areaCode": 3002
-        },
-        {
-            "id": 28,
-            "price": 663744,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "22 Oct, 2020",
-            "soldDate": "27 Oct, 2020",
-            "yearBuilt": 2004,
-            "agent": 68,
-            "areaCode": 3007
-        },
-        {
-            "id": 29,
-            "price": 481643,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "05 Jan, 2017",
-            "soldDate": "05 Feb, 2017",
-            "yearBuilt": 2009,
-            "agent": 11,
-            "areaCode": 3008
-        },
-        {
-            "id": 30,
-            "price": 563277,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "13 Apr, 2020",
-            "soldDate": "20 Apr, 2020",
-            "yearBuilt": 2011,
-            "agent": 76,
-            "areaCode": 3000
-        },
-        {
-            "id": 31,
-            "price": 506050,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "08 Dec, 2017",
-            "soldDate": "12 Jan, 2018",
-            "yearBuilt": 2004,
-            "agent": 20,
-            "areaCode": 3007
-        },
-        {
-            "id": 32,
-            "price": 555629,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "05 Jul, 2018",
-            "soldDate": "01 Aug, 2018",
-            "yearBuilt": 2009,
-            "agent": 77,
-            "areaCode": 3007
-        },
-        {
-            "id": 33,
-            "price": 474458,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "15 Nov, 2021",
-            "soldDate": "18 Nov, 2021",
-            "yearBuilt": 2003,
-            "agent": 5,
-            "areaCode": 3009
-        },
-        {
-            "id": 34,
-            "price": 500082,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "09 Jul, 2021",
-            "soldDate": "18 Aug, 2021",
-            "yearBuilt": 2008,
-            "agent": 38,
-            "areaCode": 3009
-        },
-        {
-            "id": 35,
-            "price": 503876,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "24 May, 2015",
-            "soldDate": "12 Jul, 2015",
-            "yearBuilt": 2014,
-            "agent": 91,
-            "areaCode": 3009
-        },
-        {
-            "id": 36,
-            "price": 561067,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "30 Nov, 2017",
-            "soldDate": "20 Dec, 2017",
-            "yearBuilt": 2008,
-            "agent": 47,
-            "areaCode": 3009
-        },
-        {
-            "id": 37,
-            "price": 603925,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "01 Feb, 2016",
-            "soldDate": "16 Feb, 2016",
-            "yearBuilt": 2006,
-            "agent": 58,
-            "areaCode": 3001
-        },
-        {
-            "id": 38,
-            "price": 400966,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "13 Nov, 2015",
-            "soldDate": "10 Jan, 2016",
-            "yearBuilt": 2014,
-            "agent": 92,
-            "areaCode": 3001
-        },
-        {
-            "id": 39,
-            "price": 563257,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "01 Jul, 2017",
-            "soldDate": "17 Aug, 2017",
-            "yearBuilt": 2005,
-            "agent": 14,
-            "areaCode": 3005
-        },
-        {
-            "id": 40,
-            "price": 585315,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "29 Nov, 2015",
-            "soldDate": "20 Jan, 2016",
-            "yearBuilt": 2015,
-            "agent": 84,
-            "areaCode": 3001
-        },
-        {
-            "id": 41,
-            "price": 543934,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "07 Jul, 2021",
-            "soldDate": "16 Jul, 2021",
-            "yearBuilt": 2015,
-            "agent": 19,
-            "areaCode": 3005
-        },
-        {
-            "id": 42,
-            "price": 604335,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "05 Jul, 2015",
-            "soldDate": "05 Sep, 2015",
-            "yearBuilt": 2006,
-            "agent": 90,
-            "areaCode": 3007
-        },
-        {
-            "id": 43,
-            "price": 647224,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "11 Jul, 2016",
-            "soldDate": "22 Aug, 2016",
-            "yearBuilt": 2009,
-            "agent": 55,
-            "areaCode": 3008
-        },
-        {
-            "id": 44,
-            "price": 530359,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "22 Jan, 2018",
-            "soldDate": "17 Feb, 2018",
-            "yearBuilt": 2006,
-            "agent": 56,
-            "areaCode": 3006
-        },
-        {
-            "id": 45,
-            "price": 428457,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "12 Dec, 2021",
-            "soldDate": "25 Jan, 2022",
-            "yearBuilt": 2011,
-            "agent": 91,
-            "areaCode": 3000
-        },
-        {
-            "id": 46,
-            "price": 501732,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "02 Apr, 2018",
-            "soldDate": "13 May, 2018",
-            "yearBuilt": 2012,
-            "agent": 79,
-            "areaCode": 3005
-        },
-        {
-            "id": 47,
-            "price": 683790,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "28 Dec, 2016",
-            "soldDate": "21 Feb, 2017",
-            "yearBuilt": 2013,
-            "agent": 40,
-            "areaCode": 3007
-        },
-        {
-            "id": 48,
-            "price": 644612,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "03 Jan, 2021",
-            "soldDate": "22 Feb, 2021",
-            "yearBuilt": 2012,
-            "agent": 31,
-            "areaCode": 3001
-        },
-        {
-            "id": 49,
-            "price": 683425,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "02 Feb, 2017",
-            "soldDate": "01 Mar, 2017",
-            "yearBuilt": 2003,
-            "agent": 14,
-            "areaCode": 3004
-        },
-        {
-            "id": 50,
-            "price": 667217,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "14 Jun, 2018",
-            "soldDate": "24 Jun, 2018",
-            "yearBuilt": 2011,
-            "agent": 62,
-            "areaCode": 3009
-        },
-        {
-            "id": 51,
-            "price": 491753,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "21 Aug, 2019",
-            "soldDate": "22 Sep, 2019",
-            "yearBuilt": 2011,
-            "agent": 73,
-            "areaCode": 3006
-        },
-        {
-            "id": 52,
-            "price": 587084,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "16 Jan, 2019",
-            "soldDate": "17 Feb, 2019",
-            "yearBuilt": 2011,
-            "agent": 82,
-            "areaCode": 3004
-        },
-        {
-            "id": 53,
-            "price": 603375,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "19 Mar, 2018",
-            "soldDate": "14 May, 2018",
-            "yearBuilt": 2009,
-            "agent": 35,
-            "areaCode": 3004
-        },
-        {
-            "id": 54,
-            "price": 669869,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "26 Dec, 2021",
-            "soldDate": "04 Jan, 2022",
-            "yearBuilt": 2012,
-            "agent": 60,
-            "areaCode": 3003
-        },
-        {
-            "id": 55,
-            "price": 519591,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "12 Nov, 2017",
-            "soldDate": "20 Dec, 2017",
-            "yearBuilt": 2001,
-            "agent": 89,
-            "areaCode": 3004
-        },
-        {
-            "id": 56,
-            "price": 410474,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "24 Sep, 2018",
-            "soldDate": "28 Oct, 2018",
-            "yearBuilt": 2006,
-            "agent": 92,
-            "areaCode": 3003
-        },
-        {
-            "id": 57,
-            "price": 603235,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "09 Dec, 2021",
-            "soldDate": "10 Jan, 2022",
-            "yearBuilt": 2010,
-            "agent": 78,
-            "areaCode": 3005
-        },
-        {
-            "id": 58,
-            "price": 532907,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "05 Nov, 2016",
-            "soldDate": "12 Nov, 2016",
-            "yearBuilt": 2010,
-            "agent": 73,
-            "areaCode": 3001
-        },
-        {
-            "id": 59,
-            "price": 667807,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "05 Jun, 2018",
-            "soldDate": "21 Jun, 2018",
-            "yearBuilt": 2002,
-            "agent": 4,
-            "areaCode": 3008
-        },
-        {
-            "id": 60,
-            "price": 532137,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "31 May, 2015",
-            "soldDate": "20 Jul, 2015",
-            "yearBuilt": 2009,
-            "agent": 15,
-            "areaCode": 3001
-        },
-        {
-            "id": 61,
-            "price": 607104,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "03 Nov, 2021",
-            "soldDate": "23 Dec, 2021",
-            "yearBuilt": 2013,
-            "agent": 2,
-            "areaCode": 3006
-        },
-        {
-            "id": 62,
-            "price": 527848,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "18 Nov, 2015",
-            "soldDate": "25 Nov, 2015",
-            "yearBuilt": 2001,
-            "agent": 92,
-            "areaCode": 3002
-        },
-        {
-            "id": 63,
-            "price": 602960,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "04 Aug, 2021",
-            "soldDate": "30 Sep, 2021",
-            "yearBuilt": 2010,
-            "agent": 56,
-            "areaCode": 3005
-        },
-        {
-            "id": 64,
-            "price": 628750,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "04 Jul, 2020",
-            "soldDate": "14 Jul, 2020",
-            "yearBuilt": 2003,
-            "agent": 90,
-            "areaCode": 3001
-        },
-        {
-            "id": 65,
-            "price": 514409,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "11 Jun, 2019",
-            "soldDate": "21 Jul, 2019",
-            "yearBuilt": 2011,
-            "agent": 46,
-            "areaCode": 3008
-        },
-        {
-            "id": 66,
-            "price": 673435,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "12 Nov, 2018",
-            "soldDate": "03 Dec, 2018",
-            "yearBuilt": 2003,
-            "agent": 72,
-            "areaCode": 3007
-        },
-        {
-            "id": 67,
-            "price": 548503,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "22 Oct, 2016",
-            "soldDate": "18 Nov, 2016",
-            "yearBuilt": 2004,
-            "agent": 23,
-            "areaCode": 3010
-        },
-        {
-            "id": 68,
-            "price": 529958,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "01 Oct, 2017",
-            "soldDate": "27 Nov, 2017",
-            "yearBuilt": 2015,
-            "agent": 78,
-            "areaCode": 3002
-        },
-        {
-            "id": 69,
-            "price": 527290,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "25 Jul, 2016",
-            "soldDate": "26 Aug, 2016",
-            "yearBuilt": 2010,
-            "agent": 15,
-            "areaCode": 3003
-        },
-        {
-            "id": 70,
-            "price": 633095,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "30 Sep, 2019",
-            "soldDate": "20 Nov, 2019",
-            "yearBuilt": 2001,
-            "agent": 5,
-            "areaCode": 3007
-        },
-        {
-            "id": 71,
-            "price": 569607,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "15 Mar, 2019",
-            "soldDate": "01 Apr, 2019",
-            "yearBuilt": 2002,
-            "agent": 98,
-            "areaCode": 3000
-        },
-        {
-            "id": 72,
-            "price": 475478,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "20 Dec, 2020",
-            "soldDate": "29 Jan, 2021",
-            "yearBuilt": 2001,
-            "agent": 63,
-            "areaCode": 3005
-        },
-        {
-            "id": 73,
-            "price": 553676,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "12 Mar, 2021",
-            "soldDate": "27 Mar, 2021",
-            "yearBuilt": 2013,
-            "agent": 32,
-            "areaCode": 3009
-        },
-        {
-            "id": 74,
-            "price": 586544,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "26 Jan, 2017",
-            "soldDate": "16 Feb, 2017",
-            "yearBuilt": 2005,
-            "agent": 82,
-            "areaCode": 3009
-        },
-        {
-            "id": 75,
-            "price": 638230,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "15 Jun, 2018",
-            "soldDate": "12 Jul, 2018",
-            "yearBuilt": 2003,
-            "agent": 13,
-            "areaCode": 3004
-        },
-        {
-            "id": 76,
-            "price": 408053,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "03 Aug, 2019",
-            "soldDate": "21 Sep, 2019",
-            "yearBuilt": 2005,
-            "agent": 43,
-            "areaCode": 3004
-        },
-        {
-            "id": 77,
-            "price": 576435,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "05 Dec, 2018",
-            "soldDate": "19 Jan, 2019",
-            "yearBuilt": 2014,
-            "agent": 49,
-            "areaCode": 3007
-        },
-        {
-            "id": 78,
-            "price": 453397,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "05 Aug, 2017",
-            "soldDate": "26 Aug, 2017",
-            "yearBuilt": 2006,
-            "agent": 12,
-            "areaCode": 3001
-        },
-        {
-            "id": 79,
-            "price": 560990,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "23 Oct, 2019",
-            "soldDate": "07 Dec, 2019",
-            "yearBuilt": 2013,
-            "agent": 75,
-            "areaCode": 3001
-        },
-        {
-            "id": 80,
-            "price": 450960,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "12 Dec, 2015",
-            "soldDate": "02 Feb, 2016",
-            "yearBuilt": 2007,
-            "agent": 34,
-            "areaCode": 3000
-        },
-        {
-            "id": 81,
-            "price": 559937,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "23 Oct, 2017",
-            "soldDate": "27 Nov, 2017",
-            "yearBuilt": 2003,
-            "agent": 19,
-            "areaCode": 3004
-        },
-        {
-            "id": 82,
-            "price": 522626,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "10 Mar, 2015",
-            "soldDate": "09 May, 2015",
-            "yearBuilt": 2006,
-            "agent": 92,
-            "areaCode": 3009
-        },
-        {
-            "id": 83,
-            "price": 655038,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "30 May, 2016",
-            "soldDate": "16 Jun, 2016",
-            "yearBuilt": 2007,
-            "agent": 58,
-            "areaCode": 3001
-        },
-        {
-            "id": 84,
-            "price": 574031,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "21 Jan, 2016",
-            "soldDate": "03 Feb, 2016",
-            "yearBuilt": 2013,
-            "agent": 91,
-            "areaCode": 3008
-        },
-        {
-            "id": 85,
-            "price": 509274,
-            "beds": 3,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "10 Feb, 2019",
-            "soldDate": "11 Mar, 2019",
-            "yearBuilt": 2002,
-            "agent": 54,
-            "areaCode": 3005
-        },
-        {
-            "id": 86,
-            "price": 402079,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "02 Aug, 2021",
-            "soldDate": "19 Sep, 2021",
-            "yearBuilt": 2008,
-            "agent": 22,
-            "areaCode": 3005
-        },
-        {
-            "id": 87,
-            "price": 434696,
-            "beds": 2,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "09 Feb, 2015",
-            "soldDate": "26 Feb, 2015",
-            "yearBuilt": 2014,
-            "agent": 16,
-            "areaCode": 3001
-        },
-        {
-            "id": 88,
-            "price": 404168,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "20 Aug, 2015",
-            "soldDate": "17 Oct, 2015",
-            "yearBuilt": 2001,
-            "agent": 8,
-            "areaCode": 3004
-        },
-        {
-            "id": 89,
-            "price": 441943,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "16 Dec, 2020",
-            "soldDate": "13 Feb, 2021",
-            "yearBuilt": 2006,
-            "agent": 11,
-            "areaCode": 3006
-        },
-        {
-            "id": 90,
-            "price": 518804,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 1,
-            "listDate": "24 Oct, 2016",
-            "soldDate": "14 Nov, 2016",
-            "yearBuilt": 2011,
-            "agent": 68,
-            "areaCode": 3005
-        },
-        {
-            "id": 91,
-            "price": 443537,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "13 Jan, 2019",
-            "soldDate": "06 Feb, 2019",
-            "yearBuilt": 2012,
-            "agent": 28,
-            "areaCode": 3004
-        },
-        {
-            "id": 92,
-            "price": 462905,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "01 Mar, 2021",
-            "soldDate": "26 Apr, 2021",
-            "yearBuilt": 2004,
-            "agent": 35,
-            "areaCode": 3007
-        },
-        {
-            "id": 93,
-            "price": 515624,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "29 May, 2020",
-            "soldDate": "04 Jul, 2020",
-            "yearBuilt": 2006,
-            "agent": 100,
-            "areaCode": 3007
-        },
-        {
-            "id": 94,
-            "price": 527775,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "20 Mar, 2020",
-            "soldDate": "22 Mar, 2020",
-            "yearBuilt": 2010,
-            "agent": 58,
-            "areaCode": 3009
-        },
-        {
-            "id": 95,
-            "price": 698552,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "23 Mar, 2018",
-            "soldDate": "18 May, 2018",
-            "yearBuilt": 2002,
-            "agent": 52,
-            "areaCode": 3004
-        },
-        {
-            "id": 96,
-            "price": 678317,
-            "beds": 4,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "11 Jul, 2020",
-            "soldDate": "24 Aug, 2020",
-            "yearBuilt": 2003,
-            "agent": 62,
-            "areaCode": 3005
-        },
-        {
-            "id": 97,
-            "price": 554065,
-            "beds": 3,
-            "baths": 2,
-            "carPark": 2,
-            "listDate": "12 Aug, 2017",
-            "soldDate": "20 Aug, 2017",
-            "yearBuilt": 2012,
-            "agent": 13,
-            "areaCode": 3008
-        },
-        {
-            "id": 98,
-            "price": 616140,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "22 Sep, 2020",
-            "soldDate": "17 Nov, 2020",
-            "yearBuilt": 2013,
-            "agent": 21,
-            "areaCode": 3001
-        },
-        {
-            "id": 99,
-            "price": 650738,
-            "beds": 4,
-            "baths": 1,
-            "carPark": 2,
-            "listDate": "11 May, 2016",
-            "soldDate": "11 May, 2016",
-            "yearBuilt": 2005,
-            "agent": 5,
-            "areaCode": 3008
-        },
-        {
-            "id": 100,
-            "price": 461297,
-            "beds": 2,
-            "baths": 1,
-            "carPark": 1,
-            "listDate": "10 Jun, 2020",
-            "soldDate": "26 Jun, 2020",
-            "yearBuilt": 2009,
-            "agent": 51,
-            "areaCode": 3006
-        }
+    "properties":[
+       {
+          "id":1,
+          "price":637844,
+          "beds":4,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2017-02-23T13:37:28.985Z",
+          "soldDate":"2017-03-18T15:05:41.504Z",
+          "yearBuilt":2013,
+          "agent":95,
+          "areaCode":3002
+       },
+       {
+          "id":2,
+          "price":691070,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2020-08-21T20:12:35.115Z",
+          "soldDate":"2020-09-22T08:33:58.754Z",
+          "yearBuilt":2008,
+          "agent":78,
+          "areaCode":3001
+       },
+       {
+          "id":3,
+          "price":650838,
+          "beds":4,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-08-30T16:26:50.165Z",
+          "soldDate":"2017-10-05T10:04:33.165Z",
+          "yearBuilt":2001,
+          "agent":63,
+          "areaCode":3003
+       },
+       {
+          "id":4,
+          "price":442377,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2019-05-27T14:24:39.860Z",
+          "soldDate":"2019-07-18T16:05:35.986Z",
+          "yearBuilt":2015,
+          "agent":63,
+          "areaCode":3004
+       },
+       {
+          "id":5,
+          "price":509215,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2018-08-13T02:23:21.555Z",
+          "soldDate":"2018-08-20T16:19:21.071Z",
+          "yearBuilt":2003,
+          "agent":61,
+          "areaCode":3001
+       },
+       {
+          "id":6,
+          "price":673210,
+          "beds":4,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2016-10-27T20:23:15.746Z",
+          "soldDate":"2016-12-06T13:38:55.172Z",
+          "yearBuilt":2003,
+          "agent":63,
+          "areaCode":3001
+       },
+       {
+          "id":7,
+          "price":523078,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2021-10-29T10:19:19.103Z",
+          "soldDate":"2021-11-21T06:14:25.042Z",
+          "yearBuilt":2002,
+          "agent":5,
+          "areaCode":3010
+       },
+       {
+          "id":8,
+          "price":585272,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2015-12-30T19:58:08.406Z",
+          "soldDate":"2015-12-31T10:52:43.589Z",
+          "yearBuilt":2002,
+          "agent":68,
+          "areaCode":3005
+       },
+       {
+          "id":9,
+          "price":545215,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2016-05-21T23:29:39.602Z",
+          "soldDate":"2016-07-17T20:34:13.208Z",
+          "yearBuilt":2002,
+          "agent":12,
+          "areaCode":3004
+       },
+       {
+          "id":10,
+          "price":439468,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2020-08-14T16:49:14.104Z",
+          "soldDate":"2020-09-30T05:54:01.791Z",
+          "yearBuilt":2010,
+          "agent":61,
+          "areaCode":3005
+       },
+       {
+          "id":11,
+          "price":594451,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2016-09-04T11:17:23.858Z",
+          "soldDate":"2016-10-15T09:10:40.823Z",
+          "yearBuilt":2015,
+          "agent":59,
+          "areaCode":3003
+       },
+       {
+          "id":12,
+          "price":585670,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2018-05-25T09:33:13.254Z",
+          "soldDate":"2018-07-07T05:53:10.574Z",
+          "yearBuilt":2013,
+          "agent":42,
+          "areaCode":3003
+       },
+       {
+          "id":13,
+          "price":405750,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-10-22T22:59:09.705Z",
+          "soldDate":"2017-11-23T22:09:16.029Z",
+          "yearBuilt":2005,
+          "agent":17,
+          "areaCode":3003
+       },
+       {
+          "id":14,
+          "price":529538,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2015-08-29T01:51:12.663Z",
+          "soldDate":"2015-10-26T12:06:38.114Z",
+          "yearBuilt":2011,
+          "agent":84,
+          "areaCode":3003
+       },
+       {
+          "id":15,
+          "price":402835,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2021-07-03T21:36:47.474Z",
+          "soldDate":"2021-07-17T01:02:41.919Z",
+          "yearBuilt":2008,
+          "agent":75,
+          "areaCode":3008
+       },
+       {
+          "id":16,
+          "price":515969,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2020-12-06T08:05:49.615Z",
+          "soldDate":"2020-12-20T23:39:10.448Z",
+          "yearBuilt":2014,
+          "agent":33,
+          "areaCode":3002
+       },
+       {
+          "id":17,
+          "price":666983,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-10-12T23:01:30.087Z",
+          "soldDate":"2019-10-24T22:16:15.753Z",
+          "yearBuilt":2004,
+          "agent":86,
+          "areaCode":3006
+       },
+       {
+          "id":18,
+          "price":460591,
+          "beds":2,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2018-05-28T05:55:23.842Z",
+          "soldDate":"2018-06-07T02:43:38.703Z",
+          "yearBuilt":2012,
+          "agent":4,
+          "areaCode":3009
+       },
+       {
+          "id":19,
+          "price":511563,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2018-12-07T08:57:35.652Z",
+          "soldDate":"2019-01-15T10:52:34.936Z",
+          "yearBuilt":2001,
+          "agent":11,
+          "areaCode":3000
+       },
+       {
+          "id":20,
+          "price":404545,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2020-09-25T07:06:23.037Z",
+          "soldDate":"2020-10-28T04:01:28.205Z",
+          "yearBuilt":2002,
+          "agent":73,
+          "areaCode":3007
+       },
+       {
+          "id":21,
+          "price":613846,
+          "beds":4,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2019-01-03T12:26:39.093Z",
+          "soldDate":"2019-03-02T10:04:24.463Z",
+          "yearBuilt":2006,
+          "agent":36,
+          "areaCode":3001
+       },
+       {
+          "id":22,
+          "price":514207,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2019-07-20T10:34:12.428Z",
+          "soldDate":"2019-08-31T21:59:02.128Z",
+          "yearBuilt":2005,
+          "agent":79,
+          "areaCode":3006
+       },
+       {
+          "id":23,
+          "price":503894,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2020-10-20T16:07:37.692Z",
+          "soldDate":"2020-12-03T23:10:18.192Z",
+          "yearBuilt":2011,
+          "agent":63,
+          "areaCode":3009
+       },
+       {
+          "id":24,
+          "price":476167,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2021-06-21T01:02:29.332Z",
+          "soldDate":"2021-08-01T00:13:28.305Z",
+          "yearBuilt":2004,
+          "agent":11,
+          "areaCode":3001
+       },
+       {
+          "id":25,
+          "price":506620,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2015-10-25T07:07:00.945Z",
+          "soldDate":"2015-11-04T01:55:50.442Z",
+          "yearBuilt":2004,
+          "agent":54,
+          "areaCode":3004
+       },
+       {
+          "id":26,
+          "price":606634,
+          "beds":4,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2020-10-13T10:57:59.499Z",
+          "soldDate":"2020-11-05T10:55:41.690Z",
+          "yearBuilt":2007,
+          "agent":3,
+          "areaCode":3008
+       },
+       {
+          "id":27,
+          "price":656628,
+          "beds":4,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2021-08-20T04:20:49.160Z",
+          "soldDate":"2021-08-21T17:17:30.096Z",
+          "yearBuilt":2005,
+          "agent":52,
+          "areaCode":3005
+       },
+       {
+          "id":28,
+          "price":644809,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-08-19T17:20:16.064Z",
+          "soldDate":"2019-10-15T04:10:25.358Z",
+          "yearBuilt":2004,
+          "agent":72,
+          "areaCode":3009
+       },
+       {
+          "id":29,
+          "price":589744,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2021-04-08T01:58:46.675Z",
+          "soldDate":"2021-05-29T18:00:52.236Z",
+          "yearBuilt":2008,
+          "agent":14,
+          "areaCode":3007
+       },
+       {
+          "id":30,
+          "price":527384,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-07-24T06:08:58.932Z",
+          "soldDate":"2017-07-24T17:40:28.372Z",
+          "yearBuilt":2011,
+          "agent":49,
+          "areaCode":3007
+       },
+       {
+          "id":31,
+          "price":521305,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2021-11-18T08:47:04.931Z",
+          "soldDate":"2022-01-12T14:20:40.016Z",
+          "yearBuilt":2014,
+          "agent":17,
+          "areaCode":3006
+       },
+       {
+          "id":32,
+          "price":572881,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2018-04-15T10:13:56.411Z",
+          "soldDate":"2018-05-17T23:58:00.883Z",
+          "yearBuilt":2002,
+          "agent":89,
+          "areaCode":3001
+       },
+       {
+          "id":33,
+          "price":554541,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2017-11-04T23:28:20.521Z",
+          "soldDate":"2017-12-10T07:58:54.462Z",
+          "yearBuilt":2005,
+          "agent":29,
+          "areaCode":3008
+       },
+       {
+          "id":34,
+          "price":441219,
+          "beds":2,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2016-04-09T16:03:56.477Z",
+          "soldDate":"2016-04-18T12:35:46.148Z",
+          "yearBuilt":2013,
+          "agent":13,
+          "areaCode":3006
+       },
+       {
+          "id":35,
+          "price":492094,
+          "beds":2,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2019-08-13T05:19:22.369Z",
+          "soldDate":"2019-09-18T20:28:49.481Z",
+          "yearBuilt":2015,
+          "agent":27,
+          "areaCode":3009
+       },
+       {
+          "id":36,
+          "price":545960,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2016-07-21T21:28:10.485Z",
+          "soldDate":"2016-09-02T11:49:52.341Z",
+          "yearBuilt":2011,
+          "agent":53,
+          "areaCode":3008
+       },
+       {
+          "id":37,
+          "price":547877,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-01-13T16:37:00.076Z",
+          "soldDate":"2019-02-01T09:20:25.570Z",
+          "yearBuilt":2013,
+          "agent":54,
+          "areaCode":3008
+       },
+       {
+          "id":38,
+          "price":423458,
+          "beds":2,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2020-06-25T05:11:10.830Z",
+          "soldDate":"2020-07-13T16:53:46.093Z",
+          "yearBuilt":2008,
+          "agent":96,
+          "areaCode":3008
+       },
+       {
+          "id":39,
+          "price":522362,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2015-08-12T23:58:07.758Z",
+          "soldDate":"2015-08-23T20:54:13.807Z",
+          "yearBuilt":2004,
+          "agent":58,
+          "areaCode":3006
+       },
+       {
+          "id":40,
+          "price":603063,
+          "beds":4,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2018-01-24T08:02:18.023Z",
+          "soldDate":"2018-02-03T19:53:13.130Z",
+          "yearBuilt":2001,
+          "agent":39,
+          "areaCode":3001
+       },
+       {
+          "id":41,
+          "price":455770,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2015-04-12T05:26:04.899Z",
+          "soldDate":"2015-05-06T18:00:38.416Z",
+          "yearBuilt":2000,
+          "agent":7,
+          "areaCode":3007
+       },
+       {
+          "id":42,
+          "price":534542,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2017-07-05T12:59:17.521Z",
+          "soldDate":"2017-07-31T09:22:54.990Z",
+          "yearBuilt":2004,
+          "agent":61,
+          "areaCode":3008
+       },
+       {
+          "id":43,
+          "price":556265,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2017-01-02T15:35:14.884Z",
+          "soldDate":"2017-01-02T18:51:05.797Z",
+          "yearBuilt":2015,
+          "agent":48,
+          "areaCode":3009
+       },
+       {
+          "id":44,
+          "price":603758,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2015-06-07T16:09:18.043Z",
+          "soldDate":"2015-07-01T11:02:46.864Z",
+          "yearBuilt":2013,
+          "agent":80,
+          "areaCode":3004
+       },
+       {
+          "id":45,
+          "price":554398,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2017-05-29T13:03:06.159Z",
+          "soldDate":"2017-06-18T04:43:44.018Z",
+          "yearBuilt":2002,
+          "agent":54,
+          "areaCode":3000
+       },
+       {
+          "id":46,
+          "price":666387,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2016-01-15T16:37:43.162Z",
+          "soldDate":"2016-01-19T19:13:27.462Z",
+          "yearBuilt":2004,
+          "agent":19,
+          "areaCode":3003
+       },
+       {
+          "id":47,
+          "price":538074,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2018-02-16T00:44:17.105Z",
+          "soldDate":"2018-04-08T21:01:19.324Z",
+          "yearBuilt":2013,
+          "agent":8,
+          "areaCode":3008
+       },
+       {
+          "id":48,
+          "price":541846,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2018-11-25T19:43:59.984Z",
+          "soldDate":"2018-12-05T03:14:20.593Z",
+          "yearBuilt":2007,
+          "agent":99,
+          "areaCode":3002
+       },
+       {
+          "id":49,
+          "price":679921,
+          "beds":4,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2019-02-26T05:36:38.676Z",
+          "soldDate":"2019-04-13T11:40:54.927Z",
+          "yearBuilt":2009,
+          "agent":100,
+          "areaCode":3003
+       },
+       {
+          "id":50,
+          "price":400310,
+          "beds":2,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2021-01-28T12:03:57.663Z",
+          "soldDate":"2021-02-06T11:08:03.902Z",
+          "yearBuilt":2009,
+          "agent":64,
+          "areaCode":3007
+       },
+       {
+          "id":51,
+          "price":639740,
+          "beds":4,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2017-10-13T23:55:25.360Z",
+          "soldDate":"2017-11-14T06:07:44.706Z",
+          "yearBuilt":2015,
+          "agent":66,
+          "areaCode":3009
+       },
+       {
+          "id":52,
+          "price":490588,
+          "beds":2,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2021-11-22T13:57:29.567Z",
+          "soldDate":"2021-12-12T09:50:17.337Z",
+          "yearBuilt":2003,
+          "agent":72,
+          "areaCode":3006
+       },
+       {
+          "id":53,
+          "price":569011,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-12-12T20:43:39.089Z",
+          "soldDate":"2020-02-06T09:28:32.416Z",
+          "yearBuilt":2007,
+          "agent":17,
+          "areaCode":3004
+       },
+       {
+          "id":54,
+          "price":610077,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2018-01-26T03:22:05.725Z",
+          "soldDate":"2018-03-20T02:55:16.564Z",
+          "yearBuilt":2003,
+          "agent":74,
+          "areaCode":3005
+       },
+       {
+          "id":55,
+          "price":533310,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2016-11-17T08:32:38.687Z",
+          "soldDate":"2017-01-13T01:19:47.301Z",
+          "yearBuilt":2002,
+          "agent":33,
+          "areaCode":3001
+       },
+       {
+          "id":56,
+          "price":480870,
+          "beds":2,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-12-22T09:05:46.450Z",
+          "soldDate":"2020-01-23T04:20:34.978Z",
+          "yearBuilt":2005,
+          "agent":7,
+          "areaCode":3008
+       },
+       {
+          "id":57,
+          "price":513293,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2021-08-10T12:46:26.450Z",
+          "soldDate":"2021-09-03T18:58:43.779Z",
+          "yearBuilt":2003,
+          "agent":57,
+          "areaCode":3008
+       },
+       {
+          "id":58,
+          "price":520144,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2019-06-12T11:42:35.886Z",
+          "soldDate":"2019-07-06T06:26:34.793Z",
+          "yearBuilt":2011,
+          "agent":17,
+          "areaCode":3010
+       },
+       {
+          "id":59,
+          "price":443743,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-09-11T22:13:08.971Z",
+          "soldDate":"2017-09-17T21:32:31.890Z",
+          "yearBuilt":2005,
+          "agent":41,
+          "areaCode":3001
+       },
+       {
+          "id":60,
+          "price":570838,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2016-05-20T09:31:13.722Z",
+          "soldDate":"2016-07-11T01:43:33.505Z",
+          "yearBuilt":2002,
+          "agent":37,
+          "areaCode":3001
+       },
+       {
+          "id":61,
+          "price":531893,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2017-06-20T01:46:35.424Z",
+          "soldDate":"2017-06-29T07:17:53.147Z",
+          "yearBuilt":2013,
+          "agent":86,
+          "areaCode":3009
+       },
+       {
+          "id":62,
+          "price":528135,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2015-11-07T10:20:34.724Z",
+          "soldDate":"2015-11-18T21:14:32.741Z",
+          "yearBuilt":2004,
+          "agent":46,
+          "areaCode":3005
+       },
+       {
+          "id":63,
+          "price":638039,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2020-08-30T02:46:26.734Z",
+          "soldDate":"2020-10-21T23:39:24.134Z",
+          "yearBuilt":2008,
+          "agent":48,
+          "areaCode":3002
+       },
+       {
+          "id":64,
+          "price":459644,
+          "beds":2,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2016-01-06T06:49:07.569Z",
+          "soldDate":"2016-02-02T18:27:46.583Z",
+          "yearBuilt":2009,
+          "agent":41,
+          "areaCode":3006
+       },
+       {
+          "id":65,
+          "price":575051,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2017-03-02T15:51:22.664Z",
+          "soldDate":"2017-04-28T01:27:17.172Z",
+          "yearBuilt":2008,
+          "agent":95,
+          "areaCode":3009
+       },
+       {
+          "id":66,
+          "price":620044,
+          "beds":4,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2016-07-30T18:54:27.351Z",
+          "soldDate":"2016-09-18T22:12:58.720Z",
+          "yearBuilt":2005,
+          "agent":73,
+          "areaCode":3009
+       },
+       {
+          "id":67,
+          "price":481298,
+          "beds":2,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2019-04-24T17:35:58.160Z",
+          "soldDate":"2019-06-19T19:30:56.516Z",
+          "yearBuilt":2007,
+          "agent":61,
+          "areaCode":3009
+       },
+       {
+          "id":68,
+          "price":448529,
+          "beds":2,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2019-08-14T19:24:02.603Z",
+          "soldDate":"2019-08-31T19:09:40.844Z",
+          "yearBuilt":2010,
+          "agent":88,
+          "areaCode":3006
+       },
+       {
+          "id":69,
+          "price":513069,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2016-07-22T18:16:26.731Z",
+          "soldDate":"2016-07-27T16:25:34.479Z",
+          "yearBuilt":2006,
+          "agent":47,
+          "areaCode":3005
+       },
+       {
+          "id":70,
+          "price":450792,
+          "beds":2,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2018-03-18T20:45:31.937Z",
+          "soldDate":"2018-05-13T21:45:03.647Z",
+          "yearBuilt":2003,
+          "agent":96,
+          "areaCode":3008
+       },
+       {
+          "id":71,
+          "price":694030,
+          "beds":4,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2015-03-21T13:03:12.938Z",
+          "soldDate":"2015-04-11T22:36:18.626Z",
+          "yearBuilt":2009,
+          "agent":86,
+          "areaCode":3002
+       },
+       {
+          "id":72,
+          "price":609251,
+          "beds":4,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-12-24T06:22:08.589Z",
+          "soldDate":"2018-02-15T18:57:08.671Z",
+          "yearBuilt":2010,
+          "agent":65,
+          "areaCode":3008
+       },
+       {
+          "id":73,
+          "price":602030,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2021-08-04T07:13:21.130Z",
+          "soldDate":"2021-08-05T14:52:51.535Z",
+          "yearBuilt":2002,
+          "agent":66,
+          "areaCode":3004
+       },
+       {
+          "id":74,
+          "price":568226,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-11-03T12:22:58.577Z",
+          "soldDate":"2017-12-13T20:56:09.259Z",
+          "yearBuilt":2012,
+          "agent":8,
+          "areaCode":3005
+       },
+       {
+          "id":75,
+          "price":494632,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2021-11-09T14:16:28.978Z",
+          "soldDate":"2021-12-20T02:22:35.867Z",
+          "yearBuilt":2002,
+          "agent":78,
+          "areaCode":3000
+       },
+       {
+          "id":76,
+          "price":517434,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2017-03-27T17:17:26.407Z",
+          "soldDate":"2017-05-09T04:31:43.695Z",
+          "yearBuilt":2001,
+          "agent":27,
+          "areaCode":3001
+       },
+       {
+          "id":77,
+          "price":578166,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2018-03-26T18:26:30.144Z",
+          "soldDate":"2018-04-25T12:18:29.926Z",
+          "yearBuilt":2008,
+          "agent":38,
+          "areaCode":3006
+       },
+       {
+          "id":78,
+          "price":486738,
+          "beds":2,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-05-30T06:06:52.376Z",
+          "soldDate":"2019-07-29T09:33:55.902Z",
+          "yearBuilt":2009,
+          "agent":52,
+          "areaCode":3008
+       },
+       {
+          "id":79,
+          "price":506152,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2016-03-15T09:07:41.341Z",
+          "soldDate":"2016-03-16T13:47:07.299Z",
+          "yearBuilt":2008,
+          "agent":11,
+          "areaCode":3006
+       },
+       {
+          "id":80,
+          "price":633582,
+          "beds":4,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2018-11-27T23:51:33.329Z",
+          "soldDate":"2019-01-05T03:21:17.259Z",
+          "yearBuilt":2007,
+          "agent":12,
+          "areaCode":3007
+       },
+       {
+          "id":81,
+          "price":579366,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2018-04-11T05:50:40.738Z",
+          "soldDate":"2018-05-02T09:40:52.650Z",
+          "yearBuilt":2013,
+          "agent":33,
+          "areaCode":3009
+       },
+       {
+          "id":82,
+          "price":520943,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-01-19T03:26:35.726Z",
+          "soldDate":"2019-02-08T02:28:16.403Z",
+          "yearBuilt":2001,
+          "agent":1,
+          "areaCode":3003
+       },
+       {
+          "id":83,
+          "price":589448,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2020-09-14T19:25:44.125Z",
+          "soldDate":"2020-10-06T14:13:51.307Z",
+          "yearBuilt":2010,
+          "agent":10,
+          "areaCode":3003
+       },
+       {
+          "id":84,
+          "price":485463,
+          "beds":2,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2016-09-26T19:02:07.697Z",
+          "soldDate":"2016-11-03T02:21:50.614Z",
+          "yearBuilt":2007,
+          "agent":74,
+          "areaCode":3009
+       },
+       {
+          "id":85,
+          "price":507281,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-09-04T03:15:53.434Z",
+          "soldDate":"2019-09-26T20:16:21.162Z",
+          "yearBuilt":2004,
+          "agent":52,
+          "areaCode":3001
+       },
+       {
+          "id":86,
+          "price":414140,
+          "beds":2,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2017-07-28T12:53:56.578Z",
+          "soldDate":"2017-08-17T03:19:27.912Z",
+          "yearBuilt":2005,
+          "agent":48,
+          "areaCode":3002
+       },
+       {
+          "id":87,
+          "price":635417,
+          "beds":4,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-11-26T01:00:25.908Z",
+          "soldDate":"2018-01-14T20:22:40.799Z",
+          "yearBuilt":2006,
+          "agent":70,
+          "areaCode":3000
+       },
+       {
+          "id":88,
+          "price":632508,
+          "beds":4,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2018-11-01T02:32:00.833Z",
+          "soldDate":"2018-11-27T14:28:59.414Z",
+          "yearBuilt":2006,
+          "agent":69,
+          "areaCode":3007
+       },
+       {
+          "id":89,
+          "price":546651,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2018-06-28T08:28:57.132Z",
+          "soldDate":"2018-08-14T01:51:17.239Z",
+          "yearBuilt":2014,
+          "agent":43,
+          "areaCode":3004
+       },
+       {
+          "id":90,
+          "price":560281,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2021-05-10T01:14:02.848Z",
+          "soldDate":"2021-06-15T18:11:41.407Z",
+          "yearBuilt":2013,
+          "agent":67,
+          "areaCode":3004
+       },
+       {
+          "id":91,
+          "price":446803,
+          "beds":2,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2017-04-06T15:01:34.590Z",
+          "soldDate":"2017-05-04T08:29:36.195Z",
+          "yearBuilt":2013,
+          "agent":73,
+          "areaCode":3005
+       },
+       {
+          "id":92,
+          "price":412972,
+          "beds":2,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2020-01-09T04:36:38.458Z",
+          "soldDate":"2020-02-25T19:00:52.351Z",
+          "yearBuilt":2012,
+          "agent":2,
+          "areaCode":3009
+       },
+       {
+          "id":93,
+          "price":646633,
+          "beds":4,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2018-11-19T14:33:32.044Z",
+          "soldDate":"2018-11-23T19:50:41.350Z",
+          "yearBuilt":2004,
+          "agent":51,
+          "areaCode":3006
+       },
+       {
+          "id":94,
+          "price":655229,
+          "beds":4,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2019-10-23T22:30:32.687Z",
+          "soldDate":"2019-11-24T11:50:28.088Z",
+          "yearBuilt":2007,
+          "agent":79,
+          "areaCode":3001
+       },
+       {
+          "id":95,
+          "price":532357,
+          "beds":3,
+          "baths":1,
+          "carPark":1,
+          "listDate":"2015-01-19T14:42:18.145Z",
+          "soldDate":"2015-02-21T12:18:31.806Z",
+          "yearBuilt":2007,
+          "agent":80,
+          "areaCode":3002
+       },
+       {
+          "id":96,
+          "price":414397,
+          "beds":2,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-08-17T02:47:02.868Z",
+          "soldDate":"2017-08-23T00:28:06.373Z",
+          "yearBuilt":2010,
+          "agent":18,
+          "areaCode":3002
+       },
+       {
+          "id":97,
+          "price":564257,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2016-09-16T11:57:32.930Z",
+          "soldDate":"2016-11-13T03:30:21.712Z",
+          "yearBuilt":2014,
+          "agent":48,
+          "areaCode":3010
+       },
+       {
+          "id":98,
+          "price":512876,
+          "beds":3,
+          "baths":2,
+          "carPark":1,
+          "listDate":"2017-04-19T02:56:38.572Z",
+          "soldDate":"2017-05-14T17:46:52.520Z",
+          "yearBuilt":2015,
+          "agent":81,
+          "areaCode":3007
+       },
+       {
+          "id":99,
+          "price":575977,
+          "beds":3,
+          "baths":1,
+          "carPark":2,
+          "listDate":"2020-08-06T07:25:35.522Z",
+          "soldDate":"2020-09-16T14:31:20.540Z",
+          "yearBuilt":2012,
+          "agent":67,
+          "areaCode":3002
+       },
+       {
+          "id":100,
+          "price":590910,
+          "beds":3,
+          "baths":2,
+          "carPark":2,
+          "listDate":"2018-06-11T03:42:30.983Z",
+          "soldDate":"2018-07-04T16:19:40.244Z",
+          "yearBuilt":2006,
+          "agent":91,
+          "areaCode":3003
+       }
     ],
-    "agents": [
-        { "id": 1, "agency": "Cortes real estate" },
-        { "id": 2, "agency": "Xie real estate" },
-        { "id": 3, "agency": "Kowalski real estate" },
-        { "id": 4, "agency": "Sakamoto real estate" },
-        { "id": 5, "agency": "Ahmed real estate" },
-        { "id": 6, "agency": "Simiyu real estate" },
-        { "id": 7, "agency": "Cui real estate" },
-        { "id": 8, "agency": "Salisu real estate" },
-        { "id": 9, "agency": "Klein real estate" },
-        { "id": 10, "agency": "De-Groot real estate" },
-        { "id": 11, "agency": "Marek real estate" },
-        { "id": 12, "agency": "Lange real estate" },
-        { "id": 13, "agency": "Matsumoto real estate" },
-        { "id": 14, "agency": "Tshabalala real estate" },
-        { "id": 15, "agency": "Collins real estate" },
-        { "id": 16, "agency": "Wilson real estate" },
-        { "id": 17, "agency": "Krawczyk real estate" },
-        { "id": 18, "agency": "Rungrueang real estate" },
-        { "id": 19, "agency": "Nakano real estate" },
-        { "id": 20, "agency": "Rumbelow real estate" },
-        { "id": 21, "agency": "Yakovleva real estate" },
-        { "id": 22, "agency": "Mahto real estate" },
-        { "id": 23, "agency": "Ghosh real estate" },
-        { "id": 24, "agency": "Sukkasem real estate" },
-        { "id": 25, "agency": "Hasna real estate" },
-        { "id": 26, "agency": "Xu real estate" },
-        { "id": 27, "agency": "Eliyahu real estate" },
-        { "id": 28, "agency": "Schneider real estate" },
-        { "id": 29, "agency": "Watson real estate" },
-        { "id": 30, "agency": "Jabarin real estate" },
-        { "id": 31, "agency": "Suwan real estate" },
-        { "id": 32, "agency": "Lozano real estate" },
-        { "id": 33, "agency": "Rani real estate" },
-        { "id": 34, "agency": "Martinez real estate" },
-        { "id": 35, "agency": "Morozov real estate" },
-        { "id": 36, "agency": "Mokoena real estate" },
-        { "id": 37, "agency": "Hayashi real estate" },
-        { "id": 38, "agency": "Azulay real estate" },
-        { "id": 39, "agency": "Kumar real estate" },
-        { "id": 40, "agency": "Okeke real estate" },
-        { "id": 41, "agency": "Malinowski real estate" },
-        { "id": 42, "agency": "Hongthong real estate" },
-        { "id": 43, "agency": "Ivanova real estate" },
-        { "id": 44, "agency": "Buthelezi real estate" },
-        { "id": 45, "agency": "Pawlak real estate" },
-        { "id": 46, "agency": "Kim real estate" },
-        { "id": 47, "agency": "Vazquez real estate" },
-        { "id": 48, "agency": "Wolf real estate" },
-        { "id": 49, "agency": "Romanova real estate" },
-        { "id": 50, "agency": "Svoboda real estate" },
-        { "id": 51, "agency": "Sukkasem real estate" },
-        { "id": 52, "agency": "Mhamid real estate" },
-        { "id": 53, "agency": "Ouma real estate" },
-        { "id": 54, "agency": "Suleiman real estate" },
-        { "id": 55, "agency": "Cherinsuk real estate" },
-        { "id": 56, "agency": "Wairimu real estate" },
-        { "id": 57, "agency": "Adhiambo real estate" },
-        { "id": 58, "agency": "Sokolov real estate" },
-        { "id": 59, "agency": "Robinson real estate" },
-        { "id": 60, "agency": "Hoekstra real estate" },
-        { "id": 61, "agency": "Sokolova real estate" },
-        { "id": 62, "agency": "Kjartansson real estate" },
-        { "id": 63, "agency": "Zalewski real estate" },
-        { "id": 64, "agency": "Mondal real estate" },
-        { "id": 65, "agency": "Ragnarsson real estate" },
-        { "id": 66, "agency": "Hill real estate" },
-        { "id": 67, "agency": "Gao real estate" },
-        { "id": 68, "agency": "Owino real estate" },
-        { "id": 69, "agency": "Liao real estate" },
-        { "id": 70, "agency": "Koster real estate" },
-        { "id": 71, "agency": "Isaac real estate" },
-        { "id": 72, "agency": "Brouwer real estate" },
-        { "id": 73, "agency": "Njeri real estate" },
-        { "id": 74, "agency": "Wanjiku real estate" },
-        { "id": 75, "agency": "Zhu real estate" },
-        { "id": 76, "agency": "Wu real estate" },
-        { "id": 77, "agency": "Hashimoto real estate" },
-        { "id": 78, "agency": "Harle-Cowan real estate" },
-        { "id": 79, "agency": "Sharma real estate" },
-        { "id": 80, "agency": "Aminu real estate" },
-        { "id": 81, "agency": "Devi real estate" },
-        { "id": 82, "agency": "Sah real estate" },
-        { "id": 83, "agency": "Bibi real estate" },
-        { "id": 84, "agency": "Ashknaziy real estate" },
-        { "id": 85, "agency": "Abdullahi real estate" },
-        { "id": 86, "agency": "Yamamoto real estate" },
-        { "id": 87, "agency": "Fu real estate" },
-        { "id": 88, "agency": "Samuel real estate" },
-        { "id": 89, "agency": "Garza real estate" },
-        { "id": 90, "agency": "Mor real estate" },
-        { "id": 91, "agency": "Ibrahim real estate" },
-        { "id": 92, "agency": "Pavlova real estate" },
-        { "id": 93, "agency": "Rosenberg real estate" },
-        { "id": 94, "agency": "Harle-Cowan real estate" },
-        { "id": 95, "agency": "Guo real estate" },
-        { "id": 96, "agency": "Herbulot real estate" },
-        { "id": 97, "agency": "Wu real estate" },
-        { "id": 98, "agency": "Ren real estate" },
-        { "id": 99, "agency": "Einarsson real estate" },
-        { "id": 100, "agency": "Pugh real estate" }
+    "agents":[
+       {
+          "id":1,
+          "agency":"Garcia real estate"
+       },
+       {
+          "id":2,
+          "agency":"Mulder real estate"
+       },
+       {
+          "id":3,
+          "agency":"Willems real estate"
+       },
+       {
+          "id":4,
+          "agency":"Moore real estate"
+       },
+       {
+          "id":5,
+          "agency":"Dominguez real estate"
+       },
+       {
+          "id":6,
+          "agency":"Govender real estate"
+       },
+       {
+          "id":7,
+          "agency":"Aliyu real estate"
+       },
+       {
+          "id":8,
+          "agency":"Ngcobo real estate"
+       },
+       {
+          "id":9,
+          "agency":"Bennett real estate"
+       },
+       {
+          "id":10,
+          "agency":"Yamada real estate"
+       },
+       {
+          "id":11,
+          "agency":"Flores real estate"
+       },
+       {
+          "id":12,
+          "agency":"Koster real estate"
+       },
+       {
+          "id":13,
+          "agency":"Ceng real estate"
+       },
+       {
+          "id":14,
+          "agency":"Molina real estate"
+       },
+       {
+          "id":15,
+          "agency":"Fernandez real estate"
+       },
+       {
+          "id":16,
+          "agency":"Mahto real estate"
+       },
+       {
+          "id":17,
+          "agency":"De-Groot real estate"
+       },
+       {
+          "id":18,
+          "agency":"Feldman real estate"
+       },
+       {
+          "id":19,
+          "agency":"Scholz real estate"
+       },
+       {
+          "id":20,
+          "agency":"Zalewski real estate"
+       },
+       {
+          "id":21,
+          "agency":"Ostrowski real estate"
+       },
+       {
+          "id":22,
+          "agency":"Gaby real estate"
+       },
+       {
+          "id":23,
+          "agency":"Romanov real estate"
+       },
+       {
+          "id":24,
+          "agency":"Eliyahu real estate"
+       },
+       {
+          "id":25,
+          "agency":"Hayashi real estate"
+       },
+       {
+          "id":26,
+          "agency":"Kowalczyk real estate"
+       },
+       {
+          "id":27,
+          "agency":"Phillips real estate"
+       },
+       {
+          "id":28,
+          "agency":"Weber real estate"
+       },
+       {
+          "id":29,
+          "agency":"Krawczyk real estate"
+       },
+       {
+          "id":30,
+          "agency":"Sitwat real estate"
+       },
+       {
+          "id":31,
+          "agency":"Ito real estate"
+       },
+       {
+          "id":32,
+          "agency":"Igwe real estate"
+       },
+       {
+          "id":33,
+          "agency":"Karanja real estate"
+       },
+       {
+          "id":34,
+          "agency":"Harris real estate"
+       },
+       {
+          "id":35,
+          "agency":"Saha real estate"
+       },
+       {
+          "id":36,
+          "agency":"Koech real estate"
+       },
+       {
+          "id":37,
+          "agency":"Otieno real estate"
+       },
+       {
+          "id":38,
+          "agency":"Ye real estate"
+       },
+       {
+          "id":39,
+          "agency":"Khatoon real estate"
+       },
+       {
+          "id":40,
+          "agency":"Vega real estate"
+       },
+       {
+          "id":41,
+          "agency":"Khoza real estate"
+       },
+       {
+          "id":42,
+          "agency":"Pavlov real estate"
+       },
+       {
+          "id":43,
+          "agency":"Davies real estate"
+       },
+       {
+          "id":44,
+          "agency":"Kowalski real estate"
+       },
+       {
+          "id":45,
+          "agency":"Torres real estate"
+       },
+       {
+          "id":46,
+          "agency":"Valdez real estate"
+       },
+       {
+          "id":47,
+          "agency":"Ngubane real estate"
+       },
+       {
+          "id":48,
+          "agency":"Golan real estate"
+       },
+       {
+          "id":49,
+          "agency":"Davis real estate"
+       },
+       {
+          "id":50,
+          "agency":"Ortega real estate"
+       },
+       {
+          "id":51,
+          "agency":"Ivanova real estate"
+       },
+       {
+          "id":52,
+          "agency":"Smirnova real estate"
+       },
+       {
+          "id":53,
+          "agency":"Gao real estate"
+       },
+       {
+          "id":54,
+          "agency":"Soto real estate"
+       },
+       {
+          "id":55,
+          "agency":"Ceng real estate"
+       },
+       {
+          "id":56,
+          "agency":"Oakley real estate"
+       },
+       {
+          "id":57,
+          "agency":"Wambui real estate"
+       },
+       {
+          "id":58,
+          "agency":"Patel real estate"
+       },
+       {
+          "id":59,
+          "agency":"Wei real estate"
+       },
+       {
+          "id":60,
+          "agency":"Egorova real estate"
+       },
+       {
+          "id":61,
+          "agency":"Jenkins real estate"
+       },
+       {
+          "id":62,
+          "agency":"Tan real estate"
+       },
+       {
+          "id":63,
+          "agency":"Adan real estate"
+       },
+       {
+          "id":64,
+          "agency":"Jackson real estate"
+       },
+       {
+          "id":65,
+          "agency":"Wu real estate"
+       },
+       {
+          "id":66,
+          "agency":"Maas real estate"
+       },
+       {
+          "id":67,
+          "agency":"Shehu real estate"
+       },
+       {
+          "id":68,
+          "agency":"Begam real estate"
+       },
+       {
+          "id":69,
+          "agency":"Sah real estate"
+       },
+       {
+          "id":70,
+          "agency":"Devi real estate"
+       },
+       {
+          "id":71,
+          "agency":"Carter real estate"
+       },
+       {
+          "id":72,
+          "agency":"Alonso real estate"
+       },
+       {
+          "id":73,
+          "agency":"Kozlova real estate"
+       },
+       {
+          "id":74,
+          "agency":"Paswan real estate"
+       },
+       {
+          "id":75,
+          "agency":"Paramar real estate"
+       },
+       {
+          "id":76,
+          "agency":"Adamczyk real estate"
+       },
+       {
+          "id":77,
+          "agency":"Brown real estate"
+       },
+       {
+          "id":78,
+          "agency":"Meng real estate"
+       },
+       {
+          "id":79,
+          "agency":"Jankowski real estate"
+       },
+       {
+          "id":80,
+          "agency":"Isah real estate"
+       },
+       {
+          "id":81,
+          "agency":"Ohayon real estate"
+       },
+       {
+          "id":82,
+          "agency":"Mitchell real estate"
+       },
+       {
+          "id":83,
+          "agency":"Yamamoto real estate"
+       },
+       {
+          "id":84,
+          "agency":"Ivanova real estate"
+       },
+       {
+          "id":85,
+          "agency":"Rotich real estate"
+       },
+       {
+          "id":86,
+          "agency":"Lozano real estate"
+       },
+       {
+          "id":87,
+          "agency":"Mori real estate"
+       },
+       {
+          "id":88,
+          "agency":"Ayutthaya real estate"
+       },
+       {
+          "id":89,
+          "agency":"Xu real estate"
+       },
+       {
+          "id":90,
+          "agency":"Ceng real estate"
+       },
+       {
+          "id":91,
+          "agency":"Bai real estate"
+       },
+       {
+          "id":92,
+          "agency":"Murakami real estate"
+       },
+       {
+          "id":93,
+          "agency":"Yamamoto real estate"
+       },
+       {
+          "id":94,
+          "agency":"Espinoza real estate"
+       },
+       {
+          "id":95,
+          "agency":"Muthoni real estate"
+       },
+       {
+          "id":96,
+          "agency":"Vargas real estate"
+       },
+       {
+          "id":97,
+          "agency":"Maluleke real estate"
+       },
+       {
+          "id":98,
+          "agency":"Pretorius real estate"
+       },
+       {
+          "id":99,
+          "agency":"Fujii real estate"
+       },
+       {
+          "id":100,
+          "agency":"Dominguez real estate"
+       }
     ]
-}
+ }
